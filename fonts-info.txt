@@ -1,0 +1,5 @@
+Fonts used by this template (loaded via Google Fonts CDN in index.html)
+
+- Poppins (Headings)
+- Inter (Body)
+- Fira Code (Monospace / stats)
